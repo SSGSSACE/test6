@@ -12,6 +12,7 @@ int main()
     x=tong(a,b);
     y=hieu(a,b);
     ketquacong(x);
+    cout<<"Hello";
     ketquatru(y);
     return 0;
 }
