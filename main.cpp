@@ -9,17 +9,17 @@ int main()
 {
 
     nhap();
-    x=tong(a,b);
-    y=hieu(a,b);
+    x = tong(a, b);
+    y = hieu(a, b);
     ketquacong(x);
-    cout<<"Hello";
+    cout << "Hello";
     ketquatru(y);
     return 0;
 }
 void nhap()
 {
-    cout<<"Nhap so thu 1: ";
-    cin>>a;
-    cout<<"Nhap so thu 2: ";
-    cin>>b;
+    cout << "Nhap so thu 1: ";
+    cin >> a;
+    cout << "Nhap so thu 2: ";
+    cin >> b;
 }
